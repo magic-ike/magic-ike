@@ -7,7 +7,7 @@
         <h3>
             <span>💻&ensp;<a href="https://iodev.io">Website</a></span>&ensp;|&ensp;
             <span>💼&ensp;<a href="https://linkedin.com/in/ike-ofoegbu">LinkedIn</a></span>&ensp;|&ensp;
-            <span>📧&ensp;<a href="mailto:ike12346@gmail.com">Email</a></span>
+            <span>📧&ensp;<a href="mailto:ikeofoegbu99@gmail.com">Email</a></span>
         </h3>
     </div>
     <br>
