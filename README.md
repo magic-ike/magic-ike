@@ -10,13 +10,13 @@
             <span>📧&ensp;<a href="mailto:ikeofoegbu99@gmail.com">Email</a></span>
         </h3>
     </div>
-<!--     <br>
+    <br>
     <div>
-        <h3>My language stats on GitHub:</h3>
+        <h3>My top languages on GitHub:</h3>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic-ike&theme=dark&hide_title=true&layout=compact&langs_count=10">
         </a>
-    </div> -->
+    </div>
     <br>
     <div>
         <h3>My motto: <i>Stay hydrated 💧<i></h3>
