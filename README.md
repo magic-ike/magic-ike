@@ -1,25 +1,31 @@
-<div align='center'>
+<div align="center">
     <h1>Hey, I'm Ike. 👋🏽</h1>
     <h3>I'm a Software Engineer based in Southern California.</h3>
-    <br>
+    <hr>
     <div>
-        <h3>My links:<h3>
-        <h3>
-            <span>💻&ensp;<a href="https://iodev.io">Website</a></span>&ensp;|&ensp;
-            <span>💼&ensp;<a href="https://linkedin.com/in/ike-ofoegbu">LinkedIn</a></span>&ensp;|&ensp;
-            <span>📧&ensp;<a href="mailto:ikeofoegbu99@gmail.com">Email</a></span>
-        </h3>
+        <h2>My Links</h2>
+        <div>
+            <a href="https://iodev.io">
+                <img src="https://img.shields.io/badge/iodev.io-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="My website">
+            </a>
+            <a href="https://linkedin.com/in/ike-ofoegbu">
+                <img src="https://img.shields.io/badge/ike--ofoegbu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn">
+            </a>
+            <a href="mailto:ikeofoegbu99@gmail.com">
+                <img src="https://img.shields.io/badge/ikeofoegbu99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My email">
+            </a>
+        </div>
     </div>
-    <br>
+    <hr>
     <div>
-        <h3>My top languages on GitHub:</h3>
+        <h2>My Top Languages on GitHub</h2>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic-ike&theme=dark&hide_title=true&layout=compact&langs_count=10">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magic-ike&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=10" alt="GitHub language stats" width="400">
         </a>
     </div>
-    <br>
+    <hr>
     <div>
-        <h3>My motto: <i>Stay hydrated 💧<i></h3>
-        <img src="https://media.giphy.com/media/8wfeGJVRwFaTrP9VOL/giphy.gif" width="300">
+        <h2>My Motto: <i>Stay hydrated 💧<i></h2>
+        <img src="https://media.giphy.com/media/8wfeGJVRwFaTrP9VOL/giphy.gif" alt="Kanye gif" width="400">
     </div>
 </div>
