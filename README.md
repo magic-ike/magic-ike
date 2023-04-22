@@ -28,9 +28,4 @@
             <img src="https://www.data-card-for-spotify.com/api/card?user_id=12146253656&show_border=1&hide_title=1&hide_explicit=1&hide_recents=1&limit=3" alt="Data Card for Spotify" width="400">
         </a>
     </div>
-    <hr>
-    <div>
-        <h2>😤 My Motto: <i>Stay hydrated 💧<i></h2>
-        <img src="https://media.giphy.com/media/8wfeGJVRwFaTrP9VOL/giphy.gif" alt="Kanye gif" width="400">
-    </div>
 </div>
