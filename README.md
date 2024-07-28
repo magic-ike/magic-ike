@@ -17,7 +17,7 @@
         <h2>My LeetCode Stats 🤓</h2>
         <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
             <img
-                src="https://leetcard.jacoblin.cool/magic_ike?theme=dark&border=5&radius=33&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count&cache=21600"
+                src="https://leetcard.jacoblin.cool/magic_ike?theme=dark&border=3&radius=33&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count&cache=21600&sheets=https://gist.githubusercontent.com/magic-ike/7f1ea3d1e54b2d3d557f575992bb43e8/raw/e297c420e8572d433bdc748afc5be83be62a396e/leetcode-stats-card.css"
                 alt="LeetCode Stats Card"
                 width="350"
             >
